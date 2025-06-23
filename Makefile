@@ -3,7 +3,7 @@ VERSION = 6
 PATCHLEVEL = 16
 SUBLEVEL = 0
 EXTRAVERSION = -rc3
-NAME = Baby Opossum Posse
+NAME = Baby Opossum Possefdsfdsfsd
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
